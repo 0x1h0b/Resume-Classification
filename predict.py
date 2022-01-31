@@ -9,6 +9,8 @@ import pandas as pd
 import warnings
 warnings.filterwarnings('ignore') 
 
+nltk.data.path.append('./nltk_data/')
+
 
 def clean_text(doc):
     ''' Pre-processing of document , basic cleaning and stopword removal '''
