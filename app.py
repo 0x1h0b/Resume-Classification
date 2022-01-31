@@ -42,7 +42,7 @@ def process_text(text_data):
     plt.ticklabel_format(style="plain")
     plt.bar(x,y)
     plt.xlabel('Labels')
-    plt.ylabel("% score")
+    plt.ylabel("score")
     plt.title('Classification results')
     st.pyplot(fig)
 
