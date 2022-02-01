@@ -4,6 +4,7 @@ This project demonstrates the multi class text classification using Multinomial 
 
 - it is a webapp created using streamlit  and deployed on heroku
 
+**WebApp link :-** https://resume-classify.herokuapp.com/
 
 ### Local setup
 
